@@ -2,7 +2,10 @@
 
 # Abdul Basith M N
 
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/Basithmn)
+<a href="https://github.com/Basithmn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:20px;height:20px;">
+</a>
+
 
 
 
