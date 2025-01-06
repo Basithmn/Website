@@ -3,5 +3,8 @@
 # Abdul Basith M N
 
 
-![Static Badge](https://github.com/Basithmn)
-![Static Badge](https://www.instagram.com/basith_mn/)
+[![Static Badge](https://github.com/Basithmn.png)](https://github.com/Basithmn)
+
+
+[![Static Badge](https://www.instagram.com/basith_mn.png)](https://www.instagram.com/basith_mn/)
+
